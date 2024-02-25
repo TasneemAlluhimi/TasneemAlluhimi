@@ -1,7 +1,7 @@
 - 💞️ Hi, I’m Tasneem Alluhimi.
 - 👀 I’m interested in web development and new technologies.
 - 🌱 I’m currently working at SAFF as a Front-end Development Specialist.
-- 📫 How to reach me via my <a src=''>email</a> .
+- 📫 How to reach me via my <a target='_blank' href='mailto: t.alluhimy@saff.com.sa'>email🔗</a>.
 
 <!---
 TasneemAlluhimi/TasneemAlluhimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
